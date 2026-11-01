@@ -4,7 +4,7 @@
 
 ### 💻 Engenharia de Software • Desenvolvimento • Tecnologia
 
-Estudante de **Engenharia de Software** e fundador da **MABELLO**.
+Estudante de **Engenharia de Software** e criador da **MABELLO T.I.**
 
 Construindo minha experiência através de estudos, projetos próprios e
 desenvolvimento de soluções digitais.
@@ -16,7 +16,7 @@ desenvolvimento de soluções digitais.
 ## 🚀 Sobre mim
 
 - 🎓 Cursando **Engenharia de Software**
-- 🐺 Fundador da **MABELLO**
+- 🐺 Criando a **MABELLO T.I.**
 - 💻 Focado em **Desenvolvimento Web & Software**
 - 🧠 Aprendendo e evoluindo constantemente
 - 🧪 Criando projetos através do **MABELLO Labs**
