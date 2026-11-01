@@ -72,18 +72,6 @@ Site da minha marca de tecnologia e também meu portfólio de desenvolvimento we
 
 ---
 
-## 📊 GitHub
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=zLobex-eng&show_icons=true&theme=github_dark&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=zLobex-eng&layout=compact&theme=github_dark&hide_border=true)
-
-</div>
-
----
-
 <div align="center">
 
 ### 🐺 MABELLO
