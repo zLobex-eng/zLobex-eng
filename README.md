@@ -58,11 +58,15 @@ soluções desenvolvidas pela MABELLO.
 
 ## 🚧 Projetos
 
-### 🌐 Site oficial da MABELLO
+### 🌐 Site da MABELLO T.I.
 
-Meu primeiro grande projeto para a marca.
+Site da minha marca de tecnologia e também meu portfólio de desenvolvimento web, feito para clientes e recrutadores.
 
 `HTML` `CSS` `JavaScript`
+
+🔗 [Ver o site](https://mabello-site.vercel.app) • 💻 [Ver o código](https://github.com/zLobex-eng/mabello-site)
+
+🔨 **Publicado e em evolução**
 
 🔨 **Em desenvolvimento**
 
