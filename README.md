@@ -33,7 +33,7 @@ desenvolvimento de soluções digitais.
 - **Já tive contato com:** Python
 - **Próximos:** Java e, por conta própria, APIs e IA
 
-- <p>
+<p>
 <img src="https://skillicons.dev/icons?i=html,css,js,git,github,vscode" />
 </p>
 
