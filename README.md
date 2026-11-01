@@ -26,17 +26,12 @@ desenvolvimento de soluções digitais.
 
 ## 🛠️ Tecnologias
 
-### Atualmente trabalhando e estudando
+## 📚 Estudando atualmente
 
-<p>
-<img src="https://skillicons.dev/icons?i=html,css,js,git,github,vscode" />
-</p>
-
-### Próximos passos
-
-<p>
-<img src="https://skillicons.dev/icons?i=ts,react,nodejs,nextjs" />
-</p>
+- **Na faculdade:** C e banco de dados
+- **Web:** HTML, CSS e JavaScript (projeto MABELLO T.I.)
+- **Já tive contato com:** Python
+- **Próximos:** Java e, por conta própria, APIs e IA
 
 ---
 
