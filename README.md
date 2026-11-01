@@ -26,7 +26,7 @@ desenvolvimento de soluções digitais.
 
 ## 🛠️ Tecnologias
 
-## 📚 Estudando atualmente
+### 📚 Estudando atualmente
 
 - **Na faculdade:** C e banco de dados
 - **Web:** HTML, CSS e JavaScript (projeto MABELLO T.I.)
